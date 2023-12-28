@@ -1,0 +1,14 @@
+C:\Work\aaaaaaqq\Konsolas\bin\Debug\net7.0\Konsolas.exe
+C:\Work\aaaaaaqq\Konsolas\bin\Debug\net7.0\Konsolas.deps.json
+C:\Work\aaaaaaqq\Konsolas\bin\Debug\net7.0\Konsolas.runtimeconfig.json
+C:\Work\aaaaaaqq\Konsolas\bin\Debug\net7.0\Konsolas.dll
+C:\Work\aaaaaaqq\Konsolas\bin\Debug\net7.0\Konsolas.pdb
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.AssemblyInfoInputs.cache
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.AssemblyInfo.cs
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.csproj.CoreCompileInputs.cache
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.dll
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\refint\Konsolas.dll
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.pdb
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\Konsolas.genruntimeconfig.cache
+C:\Work\aaaaaaqq\Konsolas\obj\Debug\net7.0\ref\Konsolas.dll
